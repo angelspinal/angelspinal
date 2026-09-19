@@ -57,8 +57,8 @@ C# | .NET | SQL Server | Arquitectura en Capas | Git
 ## Contacto
 
 <p align="left">
-  <a href="https://linkedin.com/in/angel-said-espinal-21b5a033b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:angelsaidespinal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="mailtoangelsaidespinal@gmail.com">
