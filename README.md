@@ -51,15 +51,6 @@ Aplicación de software desarrollada en **C#** para la optimización de la logí
 
 ---
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelspinal&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelspinal&layout=compact&theme=dark" alt="Lenguajes más usados"/>
-</p>
-
----
-
 ## Contacto
 
 <p align="center">
