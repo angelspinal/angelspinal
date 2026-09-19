@@ -51,16 +51,13 @@
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelspinal&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelspinal&layout=compact&theme=dark" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angelspinal&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelspinal&layout=compact&theme=dark&hide_progress=false" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
 
 ## Contacto
 
-<p align="left">
-  <a href="https://linkedin.com/in/angel-said-espinal-21b5a033b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:angelsaidespinal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+- **LinkedIn:** [angel-said-espinal](https://www.linkedin.com/in/angel-said-espinal-21b5a033b)
+- **Email:** angelsaidespinal@gmail.com
