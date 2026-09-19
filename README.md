@@ -20,15 +20,10 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -50,14 +45,12 @@
 
 ## Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelspinal&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelspinal&layout=compact&theme=dark&hide_progress=false" alt="Lenguajes más usados" width="48%" />
-</p>
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=angelspinal&show_icons=true&theme=dark&count_private=true)](https://github.com/angelspinal)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=angelspinal&layout=compact&theme=dark)](https://github.com/angelspinal)
 
 ---
 
 ## Contacto
 
-- **LinkedIn:** [angel-said-espinal](https://www.linkedin.com/in/angel-said-espinal-21b5a033b)
-- **Email:** angelsaidespinal@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-said-espinal-21b5a033b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelsaidespinal@gmail.com)
